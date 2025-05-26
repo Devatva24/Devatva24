@@ -1,7 +1,7 @@
 # <div align="center">📍 Hi, I'm Devatva Rachit! </div>
 
 <div align="center">
-  <h3>Machine Learning Enthusiast | Deep Learning Developer | Data Scientist</h3>
+  <h3>Machine Learning Enthusiast | Deep Learning Developer | Backend Developer</h3>
   <p><i>Building intelligent solutions to complex problems</i></p>
 </div>
 
