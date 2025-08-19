@@ -1,5 +1,5 @@
 <h2 align='center'></h2>
-<img width=100% title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=180&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12.20&height=180&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
 <div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tvc3pkbG5icjN4MHlmM2dybjIzNXplcGR2YTVqMHY1aWY2am82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="2000" height="500" /> </div>
