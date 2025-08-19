@@ -1,111 +1,58 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tvc3pkbG5icjN4MHlmM2dybjIzNXplcGR2YTVqMHY1aWY2am82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="2000" height="500" />
+<h2 align='center'></h2>
+<img width=100% title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=180&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+
+<div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tvc3pkbG5icjN4MHlmM2dybjIzNXplcGR2YTVqMHY1aWY2am82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="2000" height="500" /> </div>
+
+<h2 align="center"><br>
+   GitHub Stats 
+</h2>
+
+<div style="display: flex; width: 100%; gap: 10px;">
+  <div style="flex: 1;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=devatva24&rank_icon=percentile&bg_color=0000&text_color=aaa&title_color=70a5fd&icon_color=70a5fd&show_icons=true&border_color=0d1117&border_radius=20" 
+      alt="GitHub Stats" 
+      style="width: 45%; height: auto; display: block;"
+    >
+    <img 
+      src="https://streak-stats.demolab.com/?user=devatva24&theme=tokyonight&hide_border=true&border_radius=0&background=FFFFFF00&hide_longest_streak=true" 
+      alt="GitHub Streak" 
+      style="width: 45%; height: auto; display: block;"
+    >
+  </div>
 </div>
 
-# <div align="center">👋 Hi, I'm Devatva Rachit</div>
+<h2 align="center"><br>
+   Tech Stack
+</h2>
 
-<div align="center">
-  <h3>🚀 AI Enthusiast | Backend Developer </h3>
-  <p><i>Turning ideas into scalable, intelligent, and impactful solutions</i></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript&perline=10" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,nodejs,aws,cloudflare,git,linux,vscode&perline=10" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=discord,prisma,vercel,npm,yarn,pnpm,bun,markdown&perline=10" />
+</p>
+
+<h2 align="center"><br>
+  Git Activity
+</h2>
+
+<h2 align="center"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devatva24&theme=radical&hide_border=true">
+</h2>
+
+<h3 align='center'>Thanks for visiting my profile!</h3>
+<p align="center">
+</p>
+
+<img width=100% title="" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<div align='center'>
+<a href="https://hits.sh/github.com/devatva24/"><img alt="Hits" src="https://hits.sh/github.com/devatva24.svg?label=Visitors&extraCount=1000"/></a>
 </div>
 
----
 
-## 👨‍💻 About Me  
 
-- 🔭 Building projects in **Machine Learning, Deep Learning, and Backend Systems**  
-- 🌱 Currently exploring **AI-powered applications & scalable cloud solutions**  
-- 💡 Passionate about **data-driven problem solving**  
-- ⚡ Experience with **Python, Java, Spring Boot, SQL, and modern ML frameworks**  
-- 📫 Reach me at: **rachitdevatva722448@gmail.com**  
-
----
-
-## 🛠️ Tech Stack  
-
-<div align="center">
-
-### 🚀 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 Machine Learning & Data Science  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🗄️ Database  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### ⚙️ Backend & Tools  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📂 Featured Projects  
-
-### 🥘 FOODOO Chat Bot (Dialogflow)  
-- Built an **AI-powered food delivery chatbot** using Dialogflow  
-- Supports **menu navigation, order placement, and tracking**  
-- Integrated with **custom webhooks for dynamic responses**  
-
-### 🏥 CareFlow Patient Management (Spring Boot + Docker)  
-- REST API for managing patients, doctors, and appointments  
-- Implemented **CRUD operations, authentication, and Docker deployment**  
-- Designed for **scalable healthcare management**  
-
-### 🎓 EduTrack School Management (Spring Boot REST API)  
-- Backend system to manage **students, teachers, courses, and exams**  
-- Used **Spring Boot + MySQL + JPA** with **role-based access control**  
-- Containerized with **Docker for deployment**  
-
-### 🔐 Credit Card Fraud Detection (ML)  
-- Built pipeline for **preprocessing, anomaly detection, and classification**  
-- Applied **Logistic Regression & Random Forest** with imbalanced data handling  
-- Achieved **high recall for fraud cases**  
-
-### 🔢 MNIST Digit Classification (CNN)  
-- Designed a **Convolutional Neural Network (CNN)** using Keras  
-- Achieved **~99% accuracy** on MNIST handwritten digits dataset  
-- Built an **interactive digit recognition demo**  
-
-### 🧩 Early Autism Prediction (ML Research Project)  
-- Logistic Regression model with **86.88% accuracy**  
-- Questionnaire-based dataset with **demographic + clinical features**  
-- Designed for **early autism screening in low-resource settings**  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devatva24&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devatva24&layout=compact&theme=radical" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devatva24&theme=radical" />
-</div>
-
----
-
-<div align="center">  
-💬 Let's talk about **Machine Learning, Deep Learning, Backend Development, or any tech!**  
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devatva24&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
