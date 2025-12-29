@@ -66,6 +66,14 @@
 <p align="center">
 </p>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake.svg)
+
+### Dark Mode
+![Snake animation dark](https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 <img width=100% title="" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <div align='center'>
 <a href="https://hits.sh/github.com/devatva24/"><img alt="Hits" src="https://hits.sh/github.com/devatva24.svg?label=Visitors&extraCount=1000"/></a>
