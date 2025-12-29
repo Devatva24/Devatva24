@@ -47,11 +47,33 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devatva24&theme=radical&hide_border=true">
 </h2>
 
-<h2 align="center">
+<h2 align="center"><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devatva24&theme=radical" alt="Top Languages by Repo"/>
 </h2>
 
+<h2 align="center"><br>
+   Connect with me 
+</h2>
+
 <p align="center">
+  <a href="https://linkedin.com/in/devatva-rachit-317a11229">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rachitdevatva722448@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@devatva">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://x.com/DevatvaR">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/devatva_srivastava">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center"><br>
   <img src="https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark">
 </p>
 
