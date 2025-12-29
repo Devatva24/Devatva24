@@ -66,11 +66,7 @@
 <p align="center">
 </p>
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake.svg)
-
-### Dark Mode
 ![Snake animation dark](https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake-dark.svg)
 
 
