@@ -15,7 +15,7 @@
   <a href="https://github.com/Devatva24?tab=followers">
     <img src="https://img.shields.io/github/followers/Devatva24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=70a5fd" alt="Followers"/>
   </a>
-  <a href="https://devrac.vercel.app/">
+  <a href="https://devrac.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-devRac-70a5fd?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>
   <a href="https://hits.sh/github.com/Devatva24/">
