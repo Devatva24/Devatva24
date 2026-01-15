@@ -1,15 +1,10 @@
 <h2 align='center'></h2>
-<img width="100%" title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=180&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=150&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tvc3pkbG5icjN4MHlmM2dybjIzNXplcGR2YTVqMHY1aWY2am82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="100%" height="380" />
 </div>
+
 <br>
-
-<div align="center">
-  
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Java+Developer;AI%2FML+Enthusiast;System+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-
-</div>
 
 <p align="center">
   <a href="https://github.com/Devatva24?tab=followers">
@@ -35,31 +30,6 @@
 
 </div>
 
-<div align="center">
-  
-```javascript
-const devatva = {
-    code: ["Python", "Java", "TypeScript", "JavaScript", "C"],
-    technologies: {
-        backEnd: {
-            frameworks: ["FastAPI", "Spring Boot", "Node.js", "Hibernate"],
-            databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
-        },
-        frontEnd: {
-            frameworks: ["React", "Next.js"],
-            styling: ["Tailwind CSS", "CSS3"]
-        },
-        aiMl: ["TensorFlow", "PyTorch", "scikit-learn", "OpenCV"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Cloudflare"],
-        tools: ["Git", "Linux", "Gradle", "npm"]
-    },
-    currentFocus: "Building AI-powered applications and scalable systems",
-    funFact: "I debug with coffee ☕ and solve problems with music 🎵"
-};
-```
-
-</div>
-
 <br>
 
 <div align="center">
@@ -72,11 +42,11 @@ const devatva = {
 
 <samp>
   
-• 🔭 Building **AI-powered web applications** and **cloud-native solutions**  
-• 🌱 Exploring **System Design**, **Kubernetes**, and **Deep Learning**  
-• 💡 Passionate about **Machine Learning** & **Distributed Systems**  
-• 📝 Writing technical articles on [Medium](https://medium.com/@devatva)  
-• 🤝 Open to **collaborating** on innovative projects  
+- Building web applications with **Python**, **Java**, and **React**  
+- Working with **FastAPI**, **Spring Boot**, and cloud technologies  
+- Learning **system design patterns** and **container orchestration**  
+- Experimenting with **machine learning** projects in my free time  
+- Occasionally writing about what I learn on [Medium](https://medium.com/@devatva)
 
 </samp>
 
@@ -86,13 +56,13 @@ const devatva = {
 #### 💬 Ask Me About
 
 <samp>
-  
-• Python & Java Development  
-• FastAPI & Spring Boot  
-• React & Frontend Architecture  
-• Machine Learning & AI  
-• System Design & Scalability  
-• Cloud Infrastructure & DevOps  
+
+- Backend development with Python and Java  
+- REST APIs and microservices  
+- Frontend development with React  
+- Getting started with ML and AI  
+- Cloud deployments and Docker basics  
+- System design fundamentals
 
 </samp>
 
@@ -173,4 +143,4 @@ const devatva = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer"/>
 
-<h3 align='center'>✨ Thanks for visiting! Let's build something amazing together! ✨</h3>
+<h3 align='center'> Thanks for visiting! </h3>
