@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tvc3pkbG5icjN4MHlmM2dybjIzNXplcGR2YTVqMHY1aWY2am82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="100%" height="380" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFncWEzaGc3M2MwNXQ5YjQ3ZDI5aHF4eHppOTBhdnp2b2ZzYWtxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%" height="20%" />
 </div>
 
 ## Tech Stack
