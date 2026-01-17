@@ -3,7 +3,7 @@
 </div>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow,fastapi,postgresql,nodejs,aws,cloudflare,git,linux,hibernate,react,scikitlearn,discord,prisma,vercel,npm,redis,spring,bun,gradle,typescript,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow,fastapi,postgresql,nodejs,aws,git,linux,react,scikitlearn,vercel,npm,redis,spring,typescript,opencv)](https://skillicons.dev)
 
 ## About Me
 - 🔭 Pronouns: He/Him.
