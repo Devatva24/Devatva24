@@ -1,123 +1,24 @@
-<h2 align='center'></h2>
-<img width="100%" title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=150&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tvc3pkbG5icjN4MHlmM2dybjIzNXplcGR2YTVqMHY1aWY2am82YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="100%" height="380" />
 </div>
 
-<br>
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow,fastapi,postgresql,nodejs,aws,cloudflare,git,linux,hibernate,react,scikitlearn,discord,prisma,vercel,npm,redis,spring,bun,gradle,typescript,opencv)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://github.com/Devatva24?tab=followers">
-    <img src="https://img.shields.io/github/followers/Devatva24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=70a5fd" alt="Followers"/>
-  </a>
-  <a href="https://devrac.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-devRac-70a5fd?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
-  </a>
-  <a href="https://hits.sh/github.com/Devatva24/">
-    <img src="https://hits.sh/github.com/Devatva24.svg?style=for-the-badge&label=Profile%20Views&extraCount=3000&color=70a5fd&labelColor=0d1117" alt="Profile Views"/>
-  </a>
-</p>
+## About Me
+- 🔭 Pronouns: He/Him.
+- 🌱 AI/ML | Backend Developer | Java
+- 👀 Building AI-powered applications and scalable systems
+- ✔️ Passionate about Full-Stack Development, Machine Learning & Distributed Systems
+- ⚡ Fun fact: I debug with coffee ☕ and solve problems with music 🎵
 
-<br>
+## Featured Projects
+- **CareFlow**: Scalable healthcare REST API developed with Spring Boot, supporting patient, doctor, and appointment management with secure JWT-based authentication, Flyway database migrations, and Dockerized deployment for environment consistency.
+- **API Rate Limiter**: Distributed API rate limiting solution built with Spring Boot and Redis, enforcing 5 requests per minute per IP using the Token Bucket algorithm to prevent abuse and ensure stable service performance.
+- **Bentolio Portfolio**: Clean, modern developer portfolio featuring a bento-grid layout, built using React, TypeScript, and Tailwind CSS, optimized for performance, responsiveness, and clear project showcasing.
+- **YouTube RAG Chatbot**: AI-powered chatbot that transforms YouTube videos into interactive Q&A experiences using LangChain and Retrieval-Augmented Generation (RAG), improving answer relevance by ~25–35% over baseline LLM responses.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
-  
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
-
-</div>
-
-<br>
-
-<div align="center">
-  
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 🎯 What I Do
-
-<samp>
-  
-- Building web applications with **Python**, **Java**, and **React**  
-- Working with **FastAPI**, **Spring Boot**, and cloud technologies  
-- Learning **system design patterns** and **container orchestration**  
-- Experimenting with **machine learning** projects in my free time  
-- Occasionally writing about what I learn on [Medium](https://medium.com/@devatva)
-
-</samp>
-
-</td>
-<td valign="top" width="50%">
-
-#### 💬 Ask Me About
-
-<samp>
-
-- Backend development with Python and Java  
-- REST APIs and microservices  
-- Frontend development with React  
-- Getting started with ML and AI  
-- Cloud deployments and Docker basics  
-- System design fundamentals
-
-</samp>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Devatva24&theme=aura&hide_border=false" />
-</p>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow&perline=10" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,nodejs,aws,cloudflare,git,linux,hibernate,react,scikitlearn&perline=10" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,prisma,vercel,npm,redis,spring,bun,gradle,typescript,opencv&perline=10" />
-</p>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">📈 Git Activity</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devatva24&theme=radical&hide_border=true">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devatva24&theme=radical" alt="Top Languages by Repo"/>
-</p>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">🌐 Connect with me</h2>
+## Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/devatva-rachit-317a11229">
     <img hspace="8" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -134,13 +35,21 @@
   <a href="https://instagram.com/devatva_srivastava">
     <img hspace="8" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://devrac.netlify.app">
+    <img hspace="8" src="https://img.shields.io/badge/Portfolio-devrac-70a5fd?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/devatvarachit">
+    <img hspace="8" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
-<br>
+
+## GitHub Stats
 <p align="center">
-  <img src="https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Devatva24&theme=aura&hide_border=false" />
 </p>
-<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer"/>
+<div align="center">
+  <img src="https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-<h3 align='center'> Thanks for visiting! </h3>
+---
