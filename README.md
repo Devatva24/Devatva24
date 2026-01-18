@@ -2,15 +2,19 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFncWEzaGc3M2MwNXQ5YjQ3ZDI5aHF4eHppOTBhdnp2b2ZzYWtxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%" height="20%" />
 </div>
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow,fastapi,postgresql,nodejs,aws,git,linux,react,scikitlearn,vercel,npm,redis,spring,typescript,opencv)](https://skillicons.dev)
-
 ## About Me
 - 🔭 Pronouns: He/Him.
 - 🌱 AI/ML | Backend Developer | Java
 - 👀 Building AI-powered applications and scalable systems
 - ✔️ Passionate about Full-Stack Development, Machine Learning & Distributed Systems
 - ⚡ Fun fact: I debug with coffee ☕ and solve problems with music 🎵
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow,fastapi,postgresql,nodejs,aws,git,linux,react,scikitlearn,vercel,npm,redis,spring,typescript,opencv)](https://skillicons.dev)
+- **Backend & Systems** : Java, Spring Boot, Node.js, Express, Python, REST, gRPC, PostgreSQL, MySQL, Redis
+- **Frontend** : React, Next.js, TypeScript, Tailwind CSS
+- **Cloud & DevOps** : AWS, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Linux
+- **Data, AI & Observability** : SQL, Elasticsearch, machine learning pipelines, Generative AI (LangChain, RAG, LLMs)
 
 ## Featured Projects
 - **[CareFlow](https://github.com/Devatva24/CareFlow)** : Scalable healthcare REST API developed with Spring Boot, supporting patient, doctor, and appointment management with secure JWT-based authentication, Flyway database migrations, and Dockerized deployment for environment consistency.
@@ -48,8 +52,22 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Devatva24&theme=aura&hide_border=false" />
 </p>
 
+## Currently
+- Contributing to open source and community-driven projects.
+- Building and learning backend development with Java, Spring Boot, and RESTful APIs.
+- Exploring cloud, distributed systems, and applied machine learning.
+- Open to internships and entry-level roles focused on real-world problem solving.
+
 <div align="center">
   <img src="https://github.com/Devatva24/Devatva24/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <b>Based in India · Open to opportunities </b>
+</div>
+
+<div align="center">
+  <sub>Thanks for scrolling. If something here resonates with your team, I’d be happy to continue the conversation.</sub>
 </div>
 
 ---
