@@ -13,10 +13,10 @@
 - ⚡ Fun fact: I debug with coffee ☕ and solve problems with music 🎵
 
 ## Featured Projects
-- **CareFlow**: Scalable healthcare REST API developed with Spring Boot, supporting patient, doctor, and appointment management with secure JWT-based authentication, Flyway database migrations, and Dockerized deployment for environment consistency.
-- **API Rate Limiter**: Distributed API rate limiting solution built with Spring Boot and Redis, enforcing 5 requests per minute per IP using the Token Bucket algorithm to prevent abuse and ensure stable service performance.
-- **Bentolio Portfolio**: Clean, modern developer portfolio featuring a bento-grid layout, built using React, TypeScript, and Tailwind CSS, optimized for performance, responsiveness, and clear project showcasing.
-- **YouTube RAG Chatbot**: AI-powered chatbot that transforms YouTube videos into interactive Q&A experiences using LangChain and Retrieval-Augmented Generation (RAG), improving answer relevance by ~25–35% over baseline LLM responses.
+- **[CareFlow](https://github.com/Devatva24/CareFlow)** : Scalable healthcare REST API developed with Spring Boot, supporting patient, doctor, and appointment management with secure JWT-based authentication, Flyway database migrations, and Dockerized deployment for environment consistency.
+- **[API Rate Limiter](https://github.com/Devatva24/API_Rate_Limiter)** : Distributed API rate limiting solution built with Spring Boot and Redis, enforcing 5 requests per minute per IP using the Token Bucket algorithm to prevent abuse and ensure stable service performance.
+- **[Bentolio Portfolio](https://github.com/Devatva24/Bentolio-Portfolio)** : Clean, modern developer portfolio featuring a bento-grid layout, built using React, TypeScript, and Tailwind CSS, optimized for performance, responsiveness, and clear project showcasing.
+- **[YouTube RAG Chatbot](https://github.com/Devatva24/YouTube_RAG_Chatbot)** : AI-powered chatbot that transforms YouTube videos into interactive Q&A experiences using LangChain and Retrieval-Augmented Generation (RAG), improving answer relevance by ~25–35% over baseline LLM responses.
 
 ## Connect with me
 <p align="center">
