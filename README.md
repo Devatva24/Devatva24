@@ -4,10 +4,10 @@
 
 ## About Me
 - 🔭 Pronouns: He/Him.
-- 🌱 AI/ML | Backend Developer | Java
-- 👀 Building AI-powered applications and scalable systems
-- ✔️ Passionate about Full-Stack Development, Machine Learning & Distributed Systems
-- ⚡ Fun fact: I debug with coffee ☕ and solve problems with music 🎵
+- 🌱 Backend & AI/ML dev who enjoys messy problems and clean solutions
+- 👀 Building AI-powered systems, breaking them, then fixing them better
+- ✔️ Strong believer in clean abstractions and measurable impact
+- ⚡ Build. Break. Fix. Improve.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow,fastapi,postgresql,nodejs,aws,git,linux,react,scikitlearn,vercel,npm,redis,spring,typescript,opencv)](https://skillicons.dev)
