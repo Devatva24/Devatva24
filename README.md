@@ -10,7 +10,7 @@
 - ⚡ Build. Break. Fix. Improve.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,mysql,mongodb,html,css,javascript,docker,tensorflow,fastapi,postgresql,nodejs,aws,git,linux,react,scikitlearn,vercel,npm,redis,spring,typescript,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,javascript,docker,kubernetes,tensorflow,postgresql,nodejs,express,angular,bootstrap,aws,git,linux,react,scikitlearn,vercel,npm,redis,spring,typescript,opencv)](https://skillicons.dev)
 - **Backend & Systems** : Java, Spring Boot, Node.js, Express, Python, REST, gRPC, PostgreSQL, MySQL, Redis
 - **Frontend** : React, Next.js, TypeScript, Tailwind CSS
 - **Cloud & DevOps** : AWS, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Linux
