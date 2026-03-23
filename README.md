@@ -49,7 +49,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Devatva24&theme=aura&hide_border=false" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Devatva24&theme=tokyonight-duo&hide_border=true&border_radius=3" alt="GitHub Streak" /></a>
 </p>
 
 ## Currently
