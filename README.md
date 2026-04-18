@@ -17,11 +17,16 @@
 - **Data, AI & Observability** : SQL, Elasticsearch, machine learning pipelines, Generative AI (LangChain, RAG, LLMs)
 
 ## Featured Projects
-- **[CareFlow](https://github.com/Devatva24/CareFlow)** : Scalable healthcare REST API developed with Spring Boot, supporting patient, doctor, and appointment management with secure JWT-based authentication, Flyway database migrations, and Dockerized deployment for environment consistency.
-- **[API Rate Limiter](https://github.com/Devatva24/API_Rate_Limiter)** : Distributed API rate limiting solution built with Spring Boot and Redis, enforcing 5 requests per minute per IP using the Token Bucket algorithm to prevent abuse and ensure stable service performance.
-- **[Bentolio Portfolio](https://github.com/Devatva24/Bentolio-Portfolio)** : Clean, modern developer portfolio featuring a bento-grid layout, built using React, TypeScript, and Tailwind CSS, optimized for performance, responsiveness, and clear project showcasing.
-- **[YouTube RAG Chatbot](https://github.com/Devatva24/YouTube_RAG_Chatbot)** : AI-powered chatbot that transforms YouTube videos into interactive Q&A experiences using LangChain and Retrieval-Augmented Generation (RAG), improving answer relevance by ~25–35% over baseline LLM responses.
 
+- **[LLM Router MCP](https://github.com/Devatva24/LLM-Router-MCP)** — MCP server that intelligently routes prompts across Gemini and Groq/Llama based on task intent (planning, codegen, testing, review), minimising token cost without sacrificing quality. Published as an npm package; integrates natively with Claude Desktop, Cursor, and VS Code.
+
+- **[Splitr](https://github.com/Devatva24/Splitr)** — Full-stack expense splitting app built with React, TypeScript, and Supabase. Features a minimum-payment settlement algorithm, guest mode with automatic cloud migration on sign-up, UPI deep-link payments, and Row Level Security enforced at the database level. Deployed at [splitr-lyart.vercel.app](https://splitr-lyart.vercel.app).
+
+- **[Handwritten Equation Solver](https://github.com/Devatva24/Handwritten-Equation-Solver)** — Deep learning pipeline combining a CNN (96.97% character accuracy) with an RNN for sequence interpretation to recognise and solve handwritten mathematical equations from images. Served via a Streamlit web app with a live drawing canvas.
+
+- **[Ledger](https://github.com/Devatva24/Ledger)** — Personal finance dashboard built with React and FastAPI, backed by MongoDB. Tracks bills, recurring subscriptions with billing cycle normalisation, and tasks with priority levels — with an AI insights layer that flags unused subscriptions and upcoming payment risks.
+
+- **[YouTube RAG Chatbot](https://github.com/Devatva24/YouTube_RAG_Chatbot)** — AI-powered chatbot that transforms any YouTube video into an interactive Q&A experience using LangChain and Retrieval-Augmented Generation, achieving 25–35% improvement in answer relevance over baseline LLM responses.
 ## Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/devatva-rachit-317a11229">
@@ -39,7 +44,7 @@
   <a href="https://instagram.com/devatva_srivastava">
     <img hspace="8" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://devrac.netlify.app">
+  <a href="https://devatvarachit.netlify.app/">
     <img hspace="8" src="https://img.shields.io/badge/Portfolio-devrac-70a5fd?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/devatvarachit">
